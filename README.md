@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Kxllve/Kxllve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kxllve, a 14-year-old student from the UK learning how to build software. I'm still early in my journey, but I'm here to learn and actually ship things as I go.
 
-Here are some ideas to get you started:
+My main focus right now is C# and console applications. I'm also working toward getting into cybersecurity — I'd love to build secure tools someday, though I'm still learning the basics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Dream project:** An end-to-end encrypted chat app similar to Matrix. Not there yet, but it's what I'm working toward.
+
+**Stack & Tools:**
+- Languages: C#
+- OS: CachyOS (Linux hobbyist)
+- Art: Clip Studio Paint, XP Pen Artist 12 Gen 2
+
+I've got a few small repos pinned, nothing major yet. I'm focused on building skills before building a massive portfolio.
+
+If you want to learn what I'm doing or just chat about programming, Linux, or security, feel free to reach out.
+
+**Fun Facts:**
+- Pronouns: he/him
+- Anime fan
+- Gym enthusiast
+- Hobbies: gaming (CS2, Minecraft), chess, digital art, Linux
+- Still deciding between software dev and security career-wise
+
+Thanks for checking out my profile!
