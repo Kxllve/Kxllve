@@ -18,8 +18,8 @@ If you want to learn what I'm doing or just chat about programming, Linux, or se
 **Fun Facts:**
 - Pronouns: he/him
 - Anime fan
-- Gym enthusiast
-- Hobbies: gaming (CS2, Minecraft), chess, digital art, Linux
+- Mr Robot is my favorite TV show
+- Hobbies: gaming (CS2, Minecraft), chess, digital art, Linux, gym
 - Still deciding between software dev and security career-wise
 
 Thanks for checking out my profile!
