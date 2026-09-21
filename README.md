@@ -1,25 +1,20 @@
-# Hey there! 👋
+# Hi, I'm Kxllve.
 
-I'm Kxllve, a 15 y/o student from the UK learning how to build software. I'm still early in my journey, but I'm here to learn and actually ship things as I learn.
+I'm a 15 year old student from the UK interested in software development. Currently learning C# for school.
 
-My main focus right now is C# and console applications. I still need to learn a lot, but I’ve been trying to make stuff that actually works instead of just messing around.
+Come back later to see if there is more!
 
-**Dream project:** An end-to-end encrypted chat app similar to Matrix. Not there yet, but it's what I'm working toward.
+<details>
+  <summary><strong>Languages & Tools</strong></summary><br/>
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/c_sharp%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
+</details>
 
-**Stack & Tools:**
-- Languages: C#
-- OS: CachyOS (Linux hobbyist)
-- Art: Clip Studio Paint, XP-Pen Artist 12 (2nd Gen)
-
-I've got a few small repos pinned, nothing major yet. I'm focused on building skills before building a massive portfolio.
-
-If you want to learn what I'm doing or just chat about programming, Linux, or security, feel free to reach out.
-
-**Fun Facts:**
-- Pronouns: he/him
-- I like Anime, some of my favorites are Chainsaw Man and Bleach
-- Mr Robot is my favorite TV show
-- Hobbies: gaming (CS2, Minecraft), chess, digital art, Linux, gym
-- I've decided to stick to software development
-
-Thanks for checking out my profile!
+<details>
+  <summary><strong>Socials</strong></summary><br/>
+    <a href="https://x.com/kxllve">Twitter</a>
+    <a href="https://www.youtube.com/@SheepDev">YouTube</a>
+    <a href="https://vgen.co/Kxllve">VGen</a>
+</details>
