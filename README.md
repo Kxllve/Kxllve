@@ -1,6 +1,6 @@
 ## Hi, I'm Kxllve.
 
-I'm a 15 year old student from the UK interested in software and web development. Currently learning Python.
+I'm a 15 year old student from England interested in web development. Currently learning Python.
 
 <details>
   <summary><strong>Tech Stack</strong></summary><br/>
